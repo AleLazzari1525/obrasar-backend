@@ -1,0 +1,1 @@
+// Aquí se definirán las rutas del frontend con React Router

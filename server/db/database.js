@@ -1,0 +1,1 @@
+// Conexión a MongoDB manejada desde index.js con mongoose.connect()
